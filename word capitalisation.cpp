@@ -1,3 +1,8 @@
+// Capitalise the input word.
+
+
+
+
 #include<iostream>
 #include<string>
 #include<algorithm>
