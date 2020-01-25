@@ -1,4 +1,4 @@
-//Code:
+//Check whether the given string of brackets is consistent.
 
 #include<iostream>
 #include<stack>
