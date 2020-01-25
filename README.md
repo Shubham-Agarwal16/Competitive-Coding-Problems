@@ -1,2 +1,2 @@
 # Competitive-Coding-Problems
-Solutions to basic competitive coding problems.
+Solutions to some competitive coding problems.
